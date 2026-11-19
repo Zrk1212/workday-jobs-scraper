@@ -1,0 +1,14 @@
+{
+  "name": "workday-jobs-scraper-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Examples for calling the workday-jobs-scraper Apify actor from Node.js",
+  "scripts": {
+    "start": "node examples/node/run.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.26.0"
+  },
+  "license": "MIT"
+}
